@@ -9,7 +9,8 @@ Aqui estão os códigos do Projeto em gupo utilizando java
 Aqui está meu perfil no Linkedin, caso queira entrar em contato...
 
 * **Matheus Da Cruz Santos** - - [linkedin](https://www.linkedin.com/in/matheuss-bdr/)
-
+* **hugo** - - [linkedin](https://www.linkedin.com/in/matheuss-bdr/)
+* **cauan** - - [linkedin](https://www.linkedin.com/in/matheuss-bdr/)
 * [Empresa](https://www.linkedin.com/company/soulcodeacademy/) responsável pelo curso
 * Você também pode ver o perfil do [Professor](https://www.linkedin.com/in/jos%C3%A9-magalh%C3%A3es-31a1a0176/) responsável por ministrar o curso
 
